@@ -23,9 +23,8 @@
 💻 Construindo um portfólio full-stack focado em resolução de problemas.
 
 🚀 Projeto em destaque: MediCore — plataforma de gestão de engenharia clínica com cálculos de MTBF/MTTR, simulador financeiro e geração de relatórios em PDF
-🌱 Atualmente aprofundando NestJS, Firebase e arquitetura de backend
 
-🎯 Em busca de oportunidades como desenvolvedor(a) full-stack júnior
+🌱 Atualmente aprofundando NestJS, Firebase e arquitetura de backend
 <br>
 
 ## Stack principal
