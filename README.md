@@ -55,6 +55,3 @@
   <img src="https://github-readme-stats-nine-omega-50.vercel.app/api/top-langs?username=vinidev23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph" />
 </div>
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vinidev23/vinidev23/output/snake.svg" alt="Snake animation" />
-</div>
