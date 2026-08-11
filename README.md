@@ -15,14 +15,18 @@
   </a>
 </p>
 <br>
-Sobre mim
+
+## Sobre mim
+
 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º semestre)
 💻 Construindo um portfólio full-stack focado em resolução de problemas.
 🚀 Projeto em destaque: MediCore — plataforma de gestão de engenharia clínica com cálculos de MTBF/MTTR, simulador financeiro e geração de relatórios em PDF
 🌱 Atualmente aprofundando NestJS, Firebase e arquitetura de backend
 🎯 Em busca de oportunidades como desenvolvedor(a) full-stack júnior
 <br>
-Stack principal
+
+## Stack principal
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
   <img width="12" />
@@ -43,7 +47,9 @@ Stack principal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo" />
 </div>
 <br>
-GitHub Stats
+
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats-nine-omega-50.vercel.app/api?username=vinidev23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-nine-omega-50.vercel.app/api/top-langs?username=vinidev23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph" />
